@@ -18,7 +18,7 @@ public class GitTest {
 	public static void gitDemo1() {
 		System.out.println("Im an architect");
 		System.out.println("My name is Archi");
-		
+		System.out.println("Supposed to complete in 1 month");
 	}
 
 }
